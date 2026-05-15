@@ -4,6 +4,9 @@ Arduino_Manual_Control.ino is for manual takeover and initial adjustments throug
 
 Contributors: 
 Eduardo Aguilar:  https://www.linkedin.com/in/eduardo-aguilar-montes/
+
 Tauhid Khondker:  https://www.linkedin.com/in/tauhid-khondker/
+
 Brendan Lewis:    https://www.linkedin.com/in/brendan-lewis-3413b4390/
+
 Kenneth Nguyen:   https://www.linkedin.com/in/kenneth-t-nguyen/
