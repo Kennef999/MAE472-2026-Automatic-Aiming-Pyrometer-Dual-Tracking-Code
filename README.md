@@ -13,4 +13,6 @@ Tauhid Khondker:  https://www.linkedin.com/in/tauhid-khondker/
 
 Brendan Lewis:    https://www.linkedin.com/in/brendan-lewis-3413b4390/
 
+Cole Sawyer:      https://www.linkedin.com/in/cole-sawyer6/
+
 Kenneth Nguyen:   https://www.linkedin.com/in/kenneth-t-nguyen/
